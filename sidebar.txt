@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aap:home|Door43 (aap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aap|d43-aap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aap/archive/master.zip|d43-aap.zip]]
+
+**Recent Changes**
+{{changes>ns = aap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aap|Ethnologue data]]
+
